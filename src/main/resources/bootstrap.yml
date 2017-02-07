@@ -5,12 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: ssh://git@innersource.accenture.com/app_ap/config-properties.git
-  rabbitmq:
-   addresses: 10.0.0.35:5671
-   host: configmq
-   port: 5671
-   username: guest
-   password: guest
+          uri: https://github.com/sreenivasd/commodity.git
 server:
   port: 8888
