@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/sreenivasd/Cloud-config-node-Js-Repo.git
+          uri: https://github.com/sreenivasd/spring-cloud-config-example-repo.git
 server:
   port: 8888
