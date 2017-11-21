@@ -63,7 +63,7 @@
 		</dependencies>
 	</dependencyManagement>
 	
-   <distributionManagement>
+  <!-- <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>corp1</id>
@@ -71,7 +71,7 @@
       <url>scp://repo/maven2</url>
       <layout>default</layout>
     </repository>    
-   </distributionManagement>
+   </distributionManagement>-->
 
 
 	<build>
